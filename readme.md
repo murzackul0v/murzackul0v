@@ -110,11 +110,9 @@
 <br/>
 
 #### 🤝 Socials:
-<a href="https://t.me/murzackulovv" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40murzackulovv-28a8ea" width="200"></a>
-<a href="https://www.instagram.com/murzackulov/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40murzackulov-28a8ea"></a>
-<a href="https://www.linkedin.com/in/beksultan-murzackulov-a48551270/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Murzackulov Beksultan-informational"></a>
-<a href="mailto:moe@chocola.dev"><img src="https://img.shields.io/badge/Email-murzackulovb%40gmail.com-orange"></a>
-<br/>
-
+[![Linkedin Badge](https://img.shields.io/badge/-murzackulov-blue?style=flat-md&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)](https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)
+[![Instagram Badge](https://img.shields.io/badge/-@murzackulov-red?style=flat-md&logo=instagram&logoColor=white&link=https://www.instagram.com/murzackulov/)](https://www.instagram.com/murzackulov/)
+[![Linkedin Badge](https://img.shields.io/badge/-murzackulovv-blue?style=flat-md&logo=Telegram&logoColor=white&link=https://t.me/murzackulovv)](https://t.me/murzackulovv)
+[![Gmail Badge](https://img.shields.io/badge/-murzackulovb@gmail.com-c14438?style=flat-md&logo=Gmail&logoColor=white&link=mailto:murzackulovb@gmail.com)](mailto:murzackulovb@gmail.com)
 
 
