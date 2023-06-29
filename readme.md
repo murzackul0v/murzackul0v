@@ -15,7 +15,7 @@
   <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png"  width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=1ofXsulXLTOi&format=png"  width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=s0oMA2u8paUt&format=png"  width="40" height="40"/>&nbsp;
-  <img src="https://pbs.twimg.com/profile_images/1511434207079407618/AwzUxnVf_400x400.png"  width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=hJDZRc3DyVKg&format=png"  width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"  width="40" height="40"/>&nbsp;
 </div>
 <br/>
