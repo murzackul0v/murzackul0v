@@ -8,15 +8,15 @@
 
 ## 🛠️ Tools:
 <div>
-  <img src="https://img.icons8.com/?size=512&id=v05jsvW3RprR&format=png" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=WOEYzdYCr1UZ&format=png" width="50" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=nBeuei22ZvUb&format=png" width="40" height="40"/>&nbsp;
-  <img src="https://freelogopng.com/images/all_img/1681038800chatgpt-logo-black.png"  width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png"  width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=1ofXsulXLTOi&format=png"  width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=s0oMA2u8paUt&format=png"  width="40" height="40"/>&nbsp;
+    <img src="https://img.icons8.com/?size=512&id=v05jsvW3RprR&format=png" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=WOEYzdYCr1UZ&format=png" width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=nBeuei22ZvUb&format=png" width="50" height="50"/>&nbsp;
+  <img src="https://freelogopng.com/images/all_img/1681038800chatgpt-logo-black.png"  width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png"  width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=1ofXsulXLTOi&format=png"  width="50" height="50"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=s0oMA2u8paUt&format=png"  width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=hJDZRc3DyVKg&format=png"  width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"  width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"  width="50" height="50"/>&nbsp;
 </div>
 <br/>
 
