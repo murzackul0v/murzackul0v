@@ -8,9 +8,9 @@
 
 ## 🛠️ Tools:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="50" height="40"/>&nbsp;
-  <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=v05jsvW3RprR&format=png" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=WOEYzdYCr1UZ&format=png" width="50" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=nBeuei22ZvUb&format=png" width="40" height="40"/>&nbsp;
   <img src="https://freelogopng.com/images/all_img/1681038800chatgpt-logo-black.png"  width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png"  width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=1ofXsulXLTOi&format=png"  width="40" height="40"/>&nbsp;
