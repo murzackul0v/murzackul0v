@@ -12,7 +12,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="50" height="40"/>&nbsp;
   <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="40" height="40"/>&nbsp;
   <img src="https://freelogopng.com/images/all_img/1681038800chatgpt-logo-black.png"  width="40" height="40"/>&nbsp;
-  <img src="https://freelogopng.com/images/all_img/1656501968youtube-icon-png.png"  width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=szxM3fi4e37N&format=png"  width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=1ofXsulXLTOi&format=png"  width="40" height="40"/>&nbsp;
   <img src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-512.png"  width="40" height="40"/>&nbsp;
   <img src="https://pbs.twimg.com/profile_images/1511434207079407618/AwzUxnVf_400x400.png"  width="40" height="40"/>&nbsp;
