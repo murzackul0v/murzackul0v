@@ -6,7 +6,7 @@
 ### My programming journey began with a passion for web technologies and a desire to create unique and user-friendly user interfaces. Over the past 1.5 years I have been studying and practicing in various areas of Front End development, gaining experience with HTML, CSS and JavaScript, React, Typescript ...
 <br/>
 
-### 🛠️ Tools:
+## 🛠️ Tools:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="50" height="40"/>&nbsp;
@@ -20,7 +20,7 @@
 </div>
 <br/>
 
-###  🧩Layout: 
+##  🧩Layout: 
 
 <table width='100%'>
   <tr>
@@ -64,7 +64,7 @@
 </table>
 <br/>
 
-### 👉Technologies:
+## 👉Technologies:
 
 <table width='100%'>
   <tr>
