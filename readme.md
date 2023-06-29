@@ -8,7 +8,7 @@
 
 ## 🛠️ Tools:
 <div>
-  <img src="https://img.icons8.com/?size=512&id=v05jsvW3RprR&format=png" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=512&id=v05jsvW3RprR&format=png" width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=WOEYzdYCr1UZ&format=png" width="50" height="40"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=nBeuei22ZvUb&format=png" width="40" height="40"/>&nbsp;
   <img src="https://freelogopng.com/images/all_img/1681038800chatgpt-logo-black.png"  width="40" height="40"/>&nbsp;
