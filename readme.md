@@ -19,17 +19,52 @@
 
 
 ## 🛠️ Tools:
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" height="50"/>&nbsp;
-  <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"  width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=XnsQJWiCOaJw&format=png"  width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=1ofXsulXLTOi&format=png"  width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=s0oMA2u8paUt&format=png"  width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=hJDZRc3DyVKg&format=png"  width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg"  width="50" height="50"/>&nbsp;
-</div>
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+    <a href="#toutestcool-stack">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50" height="50"/>&nbsp;
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+    <a href="#toutestcool-stack" >
+       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="70" height="50"/>&nbsp;
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+       <a href="#toutestcool-stack">
+        <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" width="50" height="50"/>&nbsp;
+      </a>
+      <br>Canva
+    </td>
+    <td align="center" width="96">
+      <a href="#toutestcool-stack">
+      <img src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png"  width="50" height="50"/>&nbsp;
+      </a>
+      <br>ChatGPT
+    </td>
+    <td align="center" width="96"> 
+     <a href="#toutestcool-stack">
+       <img src="https://freelogopng.com/images/all_img/1656501968youtube-icon-png.png"  width="50" height="50"/>&nbsp;
+      </a>
+      <br>YouTube
+    </td>
+    <td align="center" width="96"> 
+     <a href="#toutestcool-stack">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1024px-Google_Chrome_icon_%28February_2022%29.svg.png"  width="50" height="50"/>&nbsp;
+      </a>
+      <br>Chrome
+    </td>
+    <td align="center" width="96"> 
+     <a href="#toutestcool-stack">
+<img src="https://pbs.twimg.com/profile_images/1511434207079407618/AwzUxnVf_400x400.png"  width="50" height="50"/>&nbsp;
+      </a>
+      <br>MDN 
+    </td>
+  </tr> 
+</table>
 <br/>
 
 ##  🧩Layout: 
@@ -88,19 +123,19 @@
   <tr>
         <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="60" height="48" alt="JavaScript" />
+        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="100" height="55" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" width="48" height="48" alt="React" />
+        <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://img.icons8.com/?size=512&id=IaHmaUtKc8bf&format=png" width="48" height="48" alt="TypeScript"         />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
       </a>
       <br>TypeScript
     </td>
@@ -112,7 +147,7 @@
     </td>
       <td align="center" width="96"> 
       <a href="#toutestcool-stack" >
-        <img src="https://img.icons8.com/?size=512&id=pnPBiWoz9CYF&format=png" width="48" height="48" alt="Redux" />
+        <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
@@ -126,4 +161,6 @@
 </table>
 <br/>
 <br/>
+
+
 
