@@ -72,6 +72,12 @@
       </a>
       <br>Tailwind
     </td>
+    <td align="center" width="96"> 
+     <a href="#toutestcool-stack">
+        <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Chakra-UI
+    </td>
   </tr> 
 </table>
 <br/>
