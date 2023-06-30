@@ -38,25 +38,25 @@
   <tr>
     <td align="center" width="96">
     <a href="#toutestcool-stack">
-        <img src="https://img.icons8.com/?size=512&id=D2Hi2VkJSi33&format=png" width="48" height="48" alt="Html5" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="48" height="48" alt="Html5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
     <a href="#toutestcool-stack" >
-        <img src="https://img.icons8.com/?size=512&id=YjeKwnSQIBUq&format=png" width="48" height="48" alt="css3" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="48" height="48" alt="css3" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
        <a href="#toutestcool-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+        <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" width="55" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://img.icons8.com/?size=512&id=JolcTF0vSeVB&format=png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="55" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
