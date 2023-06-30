@@ -15,7 +15,7 @@
     <img src="./images/0 Posts.png" style="border-radius: 15px;" width="50%" alt="murzackulov" title="murzackulov">
   </a>
   <a href="">
-    <img src="./images/the art box.png" width="50%">
+    <img src="./images/the art box.png" style="border-radius: 15px;" width="50%">
   </a>
 </div>
 
