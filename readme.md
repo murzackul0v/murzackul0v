@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96">
     <a href="#toutestcool-stack" >
-       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="70" height="50"/>&nbsp;
+       <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" width="70"/>&nbsp;
       </a>
       <br>Figma
     </td>
