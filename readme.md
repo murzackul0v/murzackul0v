@@ -10,12 +10,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-murzackulov-blue?style=flat-md&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)](https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)
 [![Linkedin Badge](https://img.shields.io/badge/-murzackulovv-blue?style=flat-md&logo=Telegram&logoColor=white&link=https://t.me/murzackulovv)](https://t.me/murzackulovv)
 [![Gmail Badge](https://img.shields.io/badge/-murzackulovb@gmail.com-c14438?style=flat-md&logo=Gmail&logoColor=white&link=mailto:murzackulovb@gmail.com)](mailto:murzackulovb@gmail.com)
-<div>
+<div style="display: flex;">
   <a href="https://www.instagram.com/murzackulov/">
     <img src="./images/0 Posts.png" style="border-radius: 15px;" width="50%" alt="murzackulov" title="murzackulov">
   </a>
   <a href="">
-    <img src="./images/the art box.png">
+    <img src="./images/the art box.png" width="50%">
   </a>
 </div>
 
