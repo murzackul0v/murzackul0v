@@ -76,7 +76,7 @@
      <a href="#toutestcool-stack">
         <img src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4" width="48" height="48" alt="Tailwind" />
       </a>
-      <br>Chakra-UI
+      <br>Chakra
     </td>
   </tr> 
 </table>
