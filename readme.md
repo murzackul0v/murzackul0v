@@ -10,7 +10,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-murzackulov-blue?style=flat-md&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)](https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)
 [![Linkedin Badge](https://img.shields.io/badge/-murzackulovv-blue?style=flat-md&logo=Telegram&logoColor=white&link=https://t.me/murzackulovv)](https://t.me/murzackulovv)
 [![Gmail Badge](https://img.shields.io/badge/-murzackulovb@gmail.com-c14438?style=flat-md&logo=Gmail&logoColor=white&link=mailto:murzackulovb@gmail.com)](mailto:murzackulovb@gmail.com)
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://www.instagram.com/murzackulov/">
     <img src="./images/0 Posts.png" style="border-radius: 15px;" width="45%" height="100%" alt="murzackulov" title="murzackulov">
   </a>
