@@ -123,13 +123,13 @@
   <tr>
         <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="150" height="55" alt="JavaScript" />
+        <img src="https://img.icons8.com/?size=512&id=108784&format=png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="48" height="48" alt="React" />
+        <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
