@@ -129,7 +129,7 @@
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" width="48" height="48" alt="React" />
+        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
