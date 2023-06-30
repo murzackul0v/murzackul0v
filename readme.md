@@ -12,10 +12,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-murzackulovb@gmail.com-c14438?style=flat-md&logo=Gmail&logoColor=white&link=mailto:murzackulovb@gmail.com)](mailto:murzackulovb@gmail.com)
 <div style="display: flex;">
   <a href="https://www.instagram.com/murzackulov/">
-    <img src="./images/0 Posts.png" style="border-radius: 15px;" width="30%" alt="murzackulov" title="murzackulov">
+    <img src="./images/0 Posts.png" style="border-radius: 15px;" width="45%" alt="murzackulov" title="murzackulov">
   </a>
   <a href="">
-    <img src="./images/the art box.png" style="border-radius: 15px;" width="30%">
+    <img src="./images/the art box.png" style="border-radius: 15px;" width="45%">
   </a>
 </div>
 
