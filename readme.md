@@ -38,13 +38,13 @@
   <tr>
     <td align="center" width="96">
     <a href="#toutestcool-stack">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+        <img src="https://img.icons8.com/?size=512&id=D2Hi2VkJSi33&format=png" width="48" height="48" alt="Html5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
     <a href="#toutestcool-stack" >
-        <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+        <img src="https://img.icons8.com/?size=512&id=YjeKwnSQIBUq&format=png" width="48" height="48" alt="css3" />
       </a>
       <br>CSS3
     </td>
