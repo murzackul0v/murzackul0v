@@ -21,9 +21,9 @@
 ## 🛠️ Tools:
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=WOEYzdYCr1UZ&format=png" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/?size=512&id=nBeuei22ZvUb&format=png" width="50" height="50"/>&nbsp;
-  <img src="https://freelogopng.com/images/all_img/1681038800chatgpt-logo-black.png"  width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" height="50"/>&nbsp;
+  <img src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"  width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=XnsQJWiCOaJw&format=png"  width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=1ofXsulXLTOi&format=png"  width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=s0oMA2u8paUt&format=png"  width="50" height="50"/>&nbsp;
