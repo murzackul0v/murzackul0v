@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://img.icons8.com/?size=512&id=JolcTF0vSeVB&format=png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
