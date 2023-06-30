@@ -82,19 +82,19 @@
   <tr>
         <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://img.icons8.com/?size=512&id=gYCTehfTlYk5&format=png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+        <img src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
+        <img src="https://img.icons8.com/?size=512&id=IaHmaUtKc8bf&format=png" width="48" height="48" alt="TypeScript"         />
       </a>
       <br>TypeScript
     </td>
@@ -106,13 +106,13 @@
     </td>
       <td align="center" width="96"> 
       <a href="#toutestcool-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+        <img src="https://img.icons8.com/?size=512&id=pnPBiWoz9CYF&format=png" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
      <td align="center" width="96"> 
       <a href="#toutestcool-stack" >
-        <img src="https://brandeps.com/icon-download/P/Prisma-icon-vector-01.svg" width="48" height="48" alt="Prisma" />
+        <img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" width="48" height="48" alt="Prisma" />
       </a>
       <br>Prisma
     </td>
