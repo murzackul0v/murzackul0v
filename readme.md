@@ -11,6 +11,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-@murzackulov-red?style=flat-md&logo=instagram&logoColor=white&link=https://www.instagram.com/murzackulov/)](https://www.instagram.com/murzackulov/)
 [![Linkedin Badge](https://img.shields.io/badge/-murzackulovv-blue?style=flat-md&logo=Telegram&logoColor=white&link=https://t.me/murzackulovv)](https://t.me/murzackulovv)
 [![Gmail Badge](https://img.shields.io/badge/-murzackulovb@gmail.com-c14438?style=flat-md&logo=Gmail&logoColor=white&link=mailto:murzackulovb@gmail.com)](mailto:murzackulovb@gmail.com)
+<div>
+  <img src="./0 Post.png">
+</div>
 
 
 ## 🛠️ Tools:
