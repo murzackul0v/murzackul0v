@@ -6,6 +6,13 @@
 ### My programming journey began with a passion for web technologies and a desire to create unique and user-friendly user interfaces. Over the past 1.5 years I have been studying and practicing in various areas of Front End development, gaining experience with HTML, CSS and JavaScript, React, Typescript ...
 <br/>
 
+#### 🤝 Socials:
+[![Linkedin Badge](https://img.shields.io/badge/-murzackulov-blue?style=flat-md&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)](https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)
+[![Instagram Badge](https://img.shields.io/badge/-@murzackulov-red?style=flat-md&logo=instagram&logoColor=white&link=https://www.instagram.com/murzackulov/)](https://www.instagram.com/murzackulov/)
+[![Linkedin Badge](https://img.shields.io/badge/-murzackulovv-blue?style=flat-md&logo=Telegram&logoColor=white&link=https://t.me/murzackulovv)](https://t.me/murzackulovv)
+[![Gmail Badge](https://img.shields.io/badge/-murzackulovb@gmail.com-c14438?style=flat-md&logo=Gmail&logoColor=white&link=mailto:murzackulovb@gmail.com)](mailto:murzackulovb@gmail.com)
+
+
 ## 🛠️ Tools:
 <div>
     <img src="https://img.icons8.com/?size=512&id=v05jsvW3RprR&format=png" width="50" height="50"/>&nbsp;
@@ -108,10 +115,4 @@
 </table>
 <br/>
 <br/>
-
-#### 🤝 Socials:
-[![Linkedin Badge](https://img.shields.io/badge/-murzackulov-blue?style=flat-md&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)](https://www.linkedin.com/in/beksultan-murzackulov-a48551270/)
-[![Instagram Badge](https://img.shields.io/badge/-@murzackulov-red?style=flat-md&logo=instagram&logoColor=white&link=https://www.instagram.com/murzackulov/)](https://www.instagram.com/murzackulov/)
-[![Linkedin Badge](https://img.shields.io/badge/-murzackulovv-blue?style=flat-md&logo=Telegram&logoColor=white&link=https://t.me/murzackulovv)](https://t.me/murzackulovv)
-[![Gmail Badge](https://img.shields.io/badge/-murzackulovb@gmail.com-c14438?style=flat-md&logo=Gmail&logoColor=white&link=mailto:murzackulovb@gmail.com)](mailto:murzackulovb@gmail.com)
 
