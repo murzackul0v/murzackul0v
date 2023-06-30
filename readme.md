@@ -10,10 +10,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://www.instagram.com/murzackulov/">
-    <img src="./images/0 Posts.png" style="border-radius: 15px;" width="45%" height="100%" alt="murzackulov" title="murzackulov">
-  </a>
-  <a href="https://t.me/murzackulovv">
-    <img src="./images/the art box.png" style="border-radius: 15px;" width="45%" height="100%">
+    <img src="./images/0 Posts.png" style="border-radius: 15px;" width="100%" height="100%" alt="murzackulov" title="murzackulov">
   </a>
 </div>
 
