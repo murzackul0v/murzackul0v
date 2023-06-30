@@ -147,7 +147,7 @@
     </td>
       <td align="center" width="96"> 
       <a href="#toutestcool-stack" >
-        <img src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" width="49" height="48" alt="Redux" />
+        <img src="https://img.icons8.com/?size=512&id=egQrEphjrirz&format=png" width="49" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
