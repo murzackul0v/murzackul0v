@@ -88,7 +88,7 @@
   <tr>
         <td align="center" width="96">
       <a href="#toutestcool-stack">
-        <img src="https://w1.pngwing.com/pngs/136/126/png-transparent-javascript-logo-angularjs-nodejs-computer-programming-web-development-computer-software-jquery-yellow.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
