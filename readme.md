@@ -6,7 +6,7 @@
 ### My programming journey began with a passion for web technologies and a desire to create unique and user-friendly user interfaces. Over the past 1.5 years I have been studying and practicing in various areas of Front End development, gaining experience with HTML, CSS and JavaScript, React, Typescript ...
 <br/>
 
-#### 🤝 Socials:
+## 🤝 Socials:
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://www.instagram.com/murzackulov/">
@@ -20,7 +20,7 @@
 
 ## 🛠️ Tools:
 <div>
-    <img src="https://img.icons8.com/?size=512&id=v05jsvW3RprR&format=png" width="50" height="50"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=WOEYzdYCr1UZ&format=png" width="50" height="50"/>&nbsp;
   <img src="https://img.icons8.com/?size=512&id=nBeuei22ZvUb&format=png" width="50" height="50"/>&nbsp;
   <img src="https://freelogopng.com/images/all_img/1681038800chatgpt-logo-black.png"  width="50" height="50"/>&nbsp;
