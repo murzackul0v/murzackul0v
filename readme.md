@@ -14,6 +14,9 @@
   <a href="https://www.instagram.com/murzackulov/">
     <img src="./images/0 Posts.png" style="border-radius: 15px;" width="50%" alt="murzackulov" title="murzackulov">
   </a>
+  <a href="">
+    <img src="./images/the art box.png">
+  </a>
 </div>
 
 
