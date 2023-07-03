@@ -9,7 +9,7 @@
 ## 🤝 Socials:
 
 <div>
-<a href="https://twitter.com/PanarinDanila"><img alt="Twitter Online" src=https://img.shields.io/twitter/follow/PanarinDanila?style=social></a>
+<a href="https://twitter.com/PanarinDanila"><img alt="Twitter Online" src=https://img.shields.io/instagram/follow/PanarinDanila?style=social></a>
 <a href="https://www.youtube.com/channel/UC8BTVj_9AmXq4RynzgOx8jA"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8BTVj_9AmXq4RynzgOx8jA?style=social"></a>
 </div>
 
