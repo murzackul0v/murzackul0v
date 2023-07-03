@@ -9,8 +9,8 @@
 ## 🤝 Socials:
 
 <div>
-<a href="https://twitter.com/PanarinDanila"><img alt="Twitter Online" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' width='40'></a>
-<a href="https://www.youtube.com/channel/UC8BTVj_9AmXq4RynzgOx8jA"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8BTVj_9AmXq4RynzgOx8jA?style=social"></a>
+<a href="https://www.instagram.com/murzackulov/"><img alt="Instagram" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' width='40'></a>
+<a href="https://www.linkedin.com/in/beksultan-murzackulov-a48551270/"><img alt="YouTube Channel Subscribers" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width='40'></a>
 </div>
 
 
