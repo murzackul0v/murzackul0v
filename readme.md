@@ -11,7 +11,7 @@
 <div>
 <a href="https://www.instagram.com/murzackulov/"><img alt="Instagram" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' width='40'></a>
 <a href="https://www.linkedin.com/in/beksultan-murzackulov-a48551270/"><img alt="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width='40'></a>
-<a href="https://t.me/murzackulovv"><img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" width='40'></a>
+<a href="https://t.me/murzackulovv"><img alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/800px-Telegram_Messenger.png" width='45'></a>
 </div>
 
 
