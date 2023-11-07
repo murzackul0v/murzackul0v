@@ -130,30 +130,6 @@
       </a>
       <br>React JS
     </td>
-    <td align="center" width="96">
-      <a href="#toutestcool-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript"         />
-      </a>
-      <br>TypeScript
-    </td>
-          <td align="center" width="96"> 
-      <a href="#toutestcool-stack" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-      <td align="center" width="96"> 
-      <a href="#toutestcool-stack" >
-        <img src="https://img.icons8.com/?size=512&id=egQrEphjrirz&format=png" width="49" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
-     <td align="center" width="96"> 
-      <a href="#toutestcool-stack" >
-        <img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" width="48" height="48" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
   </tr> 
 </table>
 <br/>
